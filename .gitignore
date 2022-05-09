@@ -1,5 +1,8 @@
 .DS_Store
 
+# Secrets
+.secrets
+
 # Stata output files
 *.gph
 *.log
